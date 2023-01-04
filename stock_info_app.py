@@ -47,7 +47,7 @@ stock_name = st.sidebar.text_input('회사 이름', value = 'NAVER')
 
 date_range = st.sidebar.date_input('시작일과 종료일',
                                     [datetime.date(2019,1,1), 
-                                    datetime.date(2021,12,31)])
+                                    datetime.date(2022,12,31)])
 
 
 
